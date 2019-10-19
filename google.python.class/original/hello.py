@@ -8,7 +8,7 @@
 
 """A tiny Python program to check that Python is working.
 Try running this program from the command line like this:
-  python hello.py
+  python hello.pyxx= []
   python hello.py Alice
 That should print:
   Hello World -or- Hello Alice
