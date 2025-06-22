@@ -32,3 +32,12 @@ def function4(x, y):
 
 result1, result2 = function4(5, 10)
 print("Function 4 executed with results:", result1, result2)
+
+
+# show return type in function signature
+def function5(x: int, y: int) -> tuple[int, int]:
+    return x * y, x + y
+
+
+def show_date() -> None:
+    print("Date")
