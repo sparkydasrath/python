@@ -1,0 +1,1 @@
+https://github.com/robch/python-for-csharp-devs/blob/main/learn-python-in-half-day-lesson--toc.md
